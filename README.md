@@ -26,7 +26,7 @@ A high-integrity Java application designed to simulate core banking operations. 
    java -jar lib/BankAccountSystem.jar
    ```
 
-## 📈 oadmap (Next Steps)
+## 📈 Roadmap (Next Steps)
 - **Spring Boot Migration:** Convert the core logic into a RESTful API using Spring Boot to enable web-based banking.
 - **Database Integration:** Connect to a MySQL database using Spring Data JPA for professional-grade persistent storage.
 - **Advanced Security:** Implement Spring Security with JWT (JSON Web Tokens) for robust user authentication and session management.
