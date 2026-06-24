@@ -1,0 +1,42 @@
+# --- Java Specific ---
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files (JAR/WAR/EAR)
+# We ignore these because they can be rebuilt from source
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# --- IDE Specific ---
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.metadata/
+.project
+.settings/
+.classpath
+.buildpath
+
+# VS Code
+.vscode/
+
+# --- Build Tools ---
+# If you eventually use Maven or Gradle
+target/
+build/
+.gradle/
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
